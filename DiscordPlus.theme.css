@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+  --dplus-backdrop: url(https://www.bundeswehr.de/resource/image/5218986/landscape_ratio16x9/3200/1800/e9ca8e4743705eeb24f4f9282ca39b1f/D5D8D5886077926830F9FA21A2C36FC1/kanalbild-leopard.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
